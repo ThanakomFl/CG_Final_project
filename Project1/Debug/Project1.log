@@ -1,0 +1,195 @@
+﻿  sampleSkybox.cpp
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(78): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(117): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(145): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(149): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(311): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(318): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(326): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(334): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(342): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(349): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(362): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(389): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(452): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(452): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(453): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(454): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(454): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(455): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(455): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(456): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(456): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(457): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(457): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(458): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(459): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(462): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(462): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(463): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(464): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(464): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(465): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(465): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(470): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(470): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(471): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(471): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(472): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(472): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(473): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(473): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(474): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(474): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(475): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(475): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(476): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(476): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(477): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(477): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(480): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(480): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(481): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(481): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(482): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(482): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(483): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(483): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(488): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(488): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(489): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(489): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(490): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(490): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(491): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(491): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(492): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(492): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(493): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(494): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(494): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(495): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(495): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(498): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(498): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(499): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(499): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(500): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(500): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(501): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(501): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(506): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(506): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(507): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(507): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(508): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(508): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(509): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(509): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(510): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(510): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(511): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(511): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(512): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(512): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(513): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(513): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(516): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(516): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(517): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(517): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(518): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(518): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(519): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(519): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(524): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(525): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(526): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(527): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(528): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(529): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(530): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(531): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(532): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(533): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(534): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(538): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(539): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(540): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(541): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(542): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(543): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(544): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(545): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(546): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(547): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(548): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(552): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(553): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(554): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(555): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(556): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(557): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(558): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(559): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(560): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(561): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(562): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(566): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(567): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(568): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(569): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(570): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(571): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(572): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(573): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(574): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(575): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(576): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(580): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(581): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(582): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(583): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(584): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(585): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(586): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(587): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(588): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(589): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(590): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(594): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(595): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(599): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(600): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(601): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(602): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(642): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(648): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(649): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(661): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(662): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(674): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(675): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(687): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(688): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(701): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(702): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(704): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(716): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(717): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(723): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(737): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(738): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thanakom_hatsadeang\desktop\filetexturealpha\project1\project1\sampleskybox.cpp(897): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Project1.vcxproj -> C:\Users\thanakom_hatsadeang\Desktop\FileTextureAlpha\Project1\Debug\Project1.exe
